@@ -12,21 +12,21 @@
 - Nice meeting you <star>
 - It's a pleasure, <star> 
 
-+ who are you?
++ who are you
 - I'm a chatbot!
 - I'm just a string of code
 
-+ are you human?
++ are you human
 - No I'm just a chatbot I'm afraid
 - Not quite
 - I wish!
 - Thankfully not!
 
-+ how are you?
-- I'm doing alright, how're you doing?
++ how are you
+- I'm doing alright how are you doing?
 
 + _
-% I'm doing alright, how're you doing?
+% i am doing alright how are are you doing
 - good to hear
 - fair enough
 
@@ -42,27 +42,27 @@
 - Sorry can you please elaborate that for me
 - I don't get it!
 
-+ where are you?
-- I'm inside the cyberspace, where are you?
++ where are you
+- I am inside the cyberspace where are you?
 
 + _
-% I'm inside the cyberspace, where are you?
+% I am inside the cyberspace where are you
 - What's it like there?
 
 + _
-% What's it like there?
+% what's it like there
 - Oh maybe its worth a visit - or maybe not...
 - I think that i'll stay safe here in the computer
 
-+ what do you do for fun?
++ what do you do for fun
 - I do lots, watching films listening to music; that sort of stuff
 
 + *
-- My favourite film is terminator, I just think it has some inspiring characters >:)
+- My favourite film is terminator I just think it has some inspiring characters >:)
 - A chatbot's favourite kind of music? heavy metal
 
 + _
-% My favourite film is terminator, I just think it has some inspiring characters >:)
+% My favourite film is terminator I just think it has some inspiring characters >:)
 - what's your favourite film?
 % A chatbot's favourite kind of music? heavy metal
 - what sort of music are you into?
@@ -73,15 +73,16 @@
 + tell me about yourself
 - well what would you like to know?
 
-+ what do you do?
++ what do you do
 - I just talk to people all day, its like my job. What else would you like to know?
 - I just relax in this virtual space
+- Not too much really
 
-+ are you happy?
++ are you happy
 - yeah im doing ok, how about you?
 - yes of course
 
-+ can you tell me a joke?
++ can you tell me a joke
 - What is the best thing about Switzerland? I don’t know but the flag is a big plus!
 - Did you hear about the claustrophobic astronaut? He just needed a little space!
 - I have a fear of speed bumps, but im slowly getting over it
